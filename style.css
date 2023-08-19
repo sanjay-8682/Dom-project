@@ -1,0 +1,17 @@
+#root{
+    display: flex;
+}
+
+#root div{
+    display: flexbox;
+    width: 400px;
+    flex-direction: row-reverse;
+    margin: 5px ;
+    background-color: aqua;
+    border: 2px solid black;
+    align-self: auto;
+    position: absolute;
+    justify-content: space-around;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
